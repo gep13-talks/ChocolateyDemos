@@ -20,6 +20,11 @@
 
 ---
 
+@title[Windows Software Installers]
+![Windows Software Installers](https://imgflip.com/i/23y4fp)
+
+---
+
 @title[Demos]
 ## Demos
 
