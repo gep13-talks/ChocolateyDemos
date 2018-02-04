@@ -21,7 +21,7 @@
 ---
 
 @title[Windows Software Installers]
-![Windows Software Installers](https://imgflip.com/i/23y4fp)
+![Windows Software Installers](assets/picard-meme.png)
 
 ---
 
