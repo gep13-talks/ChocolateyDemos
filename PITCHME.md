@@ -14,14 +14,114 @@
 
 ---
 
-@title[Source Code]
-## Source Code
-### http://gep13.me/ChocolateyDemos
+@title[Windows Software Installers]
+![Windows Software Installers](assets/picard-meme.png)
 
 ---
 
-@title[Windows Software Installers]
-![Windows Software Installers](assets/picard-meme.png)
+@title[Let's install paint.net]
+Let's install paint.net
+
++++
+
+@title[Build Step]
+Let's install paint.net
+
+<!-- .slide: data-transition="none" -->
+![Build Step](assets/images/install-paint.net-step-1.png)
+
++++
+
+@title[Build Step]
+Let's install paint.net
+
+<!-- .slide: data-transition="none" -->
+![Build Step](assets/images/install-paint.net-step-2.png)
+
++++
+
+@title[Build Step]
+Let's install paint.net
+
+<!-- .slide: data-transition="none" -->
+![Build Step](assets/images/install-paint.net-step-3.png)
+
++++
+
+@title[Build Step]
+Let's install paint.net
+
+<!-- .slide: data-transition="none" -->
+![Build Step](assets/images/install-paint.net-step-4.png)
+
++++
+
+@title[Build Step]
+Let's install paint.net
+
+<!-- .slide: data-transition="none" -->
+![Build Step](assets/images/install-paint.net-step-5.png)
+
++++
+
+@title[Build Step]
+Let's install paint.net
+
+<!-- .slide: data-transition="none" -->
+![Build Step](assets/images/install-paint.net-step-6.png)
+
++++
+
+@title[Build Step]
+Let's install paint.net
+
+<!-- .slide: data-transition="none" -->
+![Build Step](assets/images/install-paint.net-step-7.png)
+
++++
+
+@title[Build Step]
+Let's install paint.net
+
+<!-- .slide: data-transition="none" -->
+![Build Step](assets/images/install-paint.net-step-8.png)
+
++++
+
+@title[Build Step]
+Let's install paint.net
+
+<!-- .slide: data-transition="none" -->
+![Build Step](assets/images/install-paint.net-step-9.png)
+
++++
+
+@title[Build Step]
+Let's install paint.net
+
+<!-- .slide: data-transition="none" -->
+![Build Step](assets/images/install-paint.net-step-10.png)
+
++++
+
+@title[Build Step]
+Let's install paint.net
+
+<!-- .slide: data-transition="none" -->
+![Build Step](assets/images/install-paint.net-step-11.png)
+
++++
+
+@title[Build Step]
+Let's install paint.net
+
+<!-- .slide: data-transition="none" -->
+![Build Step](assets/images/install-paint.net-step-12.png)
+---
+
+@title[Source Code]
+## Source Code
+### http://gep13.me/ChocolateyDemos
 
 ---
 
