@@ -15,7 +15,7 @@
 ---
 
 @title[Windows Software Installers]
-![Windows Software Installers](assets/picard-meme.png)
+![Windows Software Installers](assets/images/picard-meme.png)
 
 ---
 
