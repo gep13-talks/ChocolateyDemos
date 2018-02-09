@@ -198,7 +198,7 @@
 
 ### Hosting your own package server
 
-- https://chocolatey.org/docs/how-to-host-feed |
+- [https://chocolatey.org/docs/how-to-host-feed](https://chocolatey.org/docs/how-to-host-feed) |
 - Non-Windows Hosting |
   - Artifactory |
   - Sonatype Nexus |
@@ -210,13 +210,13 @@
 
 ### Chocolatey Packages
 
-- Zip files + Versioning, Dependencies & PowerShell
-- Metadata - Software information / Package Information
-- PowerShell - https://chocolatey.org/docs/helpers-reference
-  - 30+ Built-in functions - turn hard tasks into one-liners
-  - Handle additional missing installer logic (like add to PATH)
-  - Add options missing from installer arguments
-- Files - drop in binaries / native installers
+- Zip files + Versioning, Dependencies & PowerShell |
+- Metadata - Software information / Package Information |
+- PowerShell - [https://chocolatey.org/docs/helpers-reference](https://chocolatey.org/docs/helpers-reference) |
+  - 30+ Built-in functions - turn hard tasks into one-liners |
+  - Handle additional missing installer logic (like add to PATH) |
+  - Add options missing from installer arguments |
+- Files - drop in binaries / native installers |
 
 ---
 
