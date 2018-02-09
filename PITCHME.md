@@ -153,7 +153,7 @@ Let's install paint.net
 
 - Easily manage the software lifecycle |
 - Native installers, zips and binaries |
-- PowerShel Module simplifies work |
+- PowerShell Module simplifies work |
 - Packages are independent building blocks |
 - Integrates with Configuration Management |
 - Business Friendly Features |
@@ -163,7 +163,7 @@ Let's install paint.net
 ### Chocolatey - The Approach
 
 - Single, unifying interface - control the chaos |
-- Decentrlized - mulitple places to get packages, including internal |
+- Decentralized - mulitple places to get packages, including internal |
 - PowerShell |
 - Flexible |
 - Secure |
