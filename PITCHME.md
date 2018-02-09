@@ -182,7 +182,7 @@
 - Community Feed / Community Maintained |
 - Moderated as of October 2014 |
 - Everything goes through VirusTotal |
-- Organisation should NOT depend on this due to trust and control concerns |
+- Organisations should NOT depend on this due to trust and control concerns |
 
 +++
 
@@ -198,14 +198,13 @@
 
 ### Hosting your own package server
 
-- https://chocolatey.org/docs/how-to-host-feed
-- Non-Windows Hosting
-  - Artifactory
-  - Sonatype Nexus
-- NuGet Gallery
-- ProGet / MyGet
-- NuGet.Server / Chocolatey.Server
-- Puppet - chocolatey/chocolatey_server module
+- https://chocolatey.org/docs/how-to-host-feed |
+- Non-Windows Hosting |
+  - Artifactory |
+  - Sonatype Nexus |
+- NuGet Gallery |
+- ProGet / MyGet |
+- NuGet.Server / Chocolatey.Server |
 
 ---
 
