@@ -27,10 +27,23 @@
 
 ### Traditionally Windows was designed with Visual Interfaces (GUIs) in mind
 
----
++++
+
+### There is no place more eveident of that still than in the Windows Software Installer ecosystem
+
++++
 
 @title[Windows Software Installers]
 ![Windows Software Installers](assets/images/picard-meme.png)
+
++++
+
+### Windows Software Ecosystem
+
+- Over 20 installer formats and thousands of installers in the wild |
+- Zips and other archive formats |
+- Software installers are messy |
+- It's like the wild west
 
 ---
 
