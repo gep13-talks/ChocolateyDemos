@@ -29,7 +29,7 @@
 
 @title[Traditional Windows]
 
-### Traditionally Windows was designed with Visual Interfaces (GUIs) in mind
+### Traditionally Windows was designed with Visual Interfaces in mind
 
 +++
 
