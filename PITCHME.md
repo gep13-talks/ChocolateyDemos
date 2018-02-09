@@ -4,11 +4,13 @@
 
 ---
 @title[What is Chocolatey?]
+
 ## What is Chocolatey?
 
 +++
 
 @title[A Definition...]
+
 ### A Definition...
 
 "Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind."
@@ -18,6 +20,12 @@
 @title[It's Magic!]
 
 ![It's Magic](assets/images/magic.gif)
+
+---
+
+@title[Traditional Windows]
+
+### Traditionally Windows was designed with Visual Interfaces (GUIs) in mind
 
 ---
 
@@ -127,12 +135,15 @@ Let's install paint.net
 ---
 
 @title[Source Code]
+
 ## Source Code
+
 ### http://gep13.me/ChocolateyDemos
 
 ---
 
 @title[Demos]
+
 ## Demos
 
 Note:
@@ -141,7 +152,8 @@ Mention laptop setup:
 ---
 
 @title[Questions]
-## Questions?
+
+## Questions
 
 Feel free to get in touch
 
@@ -154,6 +166,7 @@ Web: http://www.gep13.co.uk
 ---
 
 @title[Resources]
+
 ## Resources
 
 * Chocolatey Documentation - https://chocolatey.org/docs
