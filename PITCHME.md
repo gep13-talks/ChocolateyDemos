@@ -147,6 +147,63 @@ Let's install paint.net
 ![Build Step](assets/images/install-paint.net-step-12.png)
 ---
 
+### Chocolatey - Sane Software Management
+
+- Easily manage the software lifecycle |
+- Native installers, zips and binaries |
+- PowerShel Module simplifies work |
+- Packages are independent building blocks |
+- Integrates with Configuration Management |
+- Business Friendly Features
+
+---
+
+### Chocolatey - The Approach
+
+- Single, unifying interface - control the chaos |
+- Decentrlized - mulitple places to get packages, including internal |
+- PowerShell |
+- Flexible |
+- Secure |
+- Reliable
+
+---
+
+### Community Package Repository
+
+- https://chocolatey.org/packages |
+- Community Feed / Community Maintained |
+- Moderated as of October 2014 |
+- Everything goes through VirusTotal |
+- Organisation should NOT depend on this due to trust and control concerns
+
+---
+
+### Hosting your own package server
+
+- https://chocolatey.org/docs/how-to-host-feed |
+- Non-Windows Hosting
+  - Artifactory
+  - Sonatype Nexus
+- NuGet Gallery
+- ProGet / MyGet
+- NuGet.Server / Chocolatey.Server
+- Puppet - chocolatey/chocolatey_server module
+
+---
+
+### Chocolatey Packages
+
+- Zip files + Versioning, Dependencies & PowerShell
+- Metadata - Software information / Package Information
+- PowerShell - https://chocolatey.org/docs/helpers-reference
+  - 30+ Built-in functions - turn hard tasks into one-liners
+  - Handle additional missing installer logic (like add to PATH)
+  - Add options missing from installer arguments
+- Files - drop in binaries / native installers
+
+---
+
 @title[Source Code]
 
 ## Source Code
