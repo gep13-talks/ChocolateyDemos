@@ -212,7 +212,7 @@
 
 - Zip files + Versioning, Dependencies & PowerShell |
 - Metadata Software Information / Package Information |
-- PowerShell [https://chocolatey.org/docs/helpers-reference](https://chocolatey.org/docs/helpers-reference) |
+- PowerShell |
   - 30+ Built-in functions - turn hard tasks into one-liners |
   - Handle additional missing installer logic (like add to PATH) |
   - Add options missing from installer arguments |
