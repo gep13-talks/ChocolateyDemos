@@ -3,14 +3,22 @@
 ## Adding a layer of Chocolate(y)
 
 ---
-
-@title[Disclaimers]
-## Disclaimers
+@title[What is Chocolatey?]
+## What is Chocolatey?
 
 +++
 
-## Is that a Mac?
-### WAT!
+@title[A Definition...]
+### A Definition...
+
+"Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind."
+
+---
+
+@title[It's Magic!]
+### It's Magic!
+
+![It's Magic](assets/images/magic.gif)
 
 ---
 
