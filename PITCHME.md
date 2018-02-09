@@ -23,6 +23,10 @@
 
 ---
 
+## Windows Software Ecosystem
+
++++
+
 @title[Traditional Windows]
 
 ### Traditionally Windows was designed with Visual Interfaces (GUIs) in mind
@@ -53,7 +57,7 @@
 
 @title[Let's install paint.net]
 
-## Let's install paint.net
+## Let's install paint.net...
 
 +++
 
