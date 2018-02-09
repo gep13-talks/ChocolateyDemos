@@ -53,7 +53,6 @@ Let's install paint.net
 +++
 
 @title[Build Step]
-Let's install paint.net
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-1.png)
@@ -61,7 +60,6 @@ Let's install paint.net
 +++
 
 @title[Build Step]
-Let's install paint.net
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-2.png)
@@ -69,7 +67,6 @@ Let's install paint.net
 +++
 
 @title[Build Step]
-Let's install paint.net
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-3.png)
@@ -77,7 +74,6 @@ Let's install paint.net
 +++
 
 @title[Build Step]
-Let's install paint.net
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-4.png)
@@ -85,7 +81,6 @@ Let's install paint.net
 +++
 
 @title[Build Step]
-Let's install paint.net
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-5.png)
@@ -93,7 +88,6 @@ Let's install paint.net
 +++
 
 @title[Build Step]
-Let's install paint.net
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-6.png)
@@ -101,7 +95,6 @@ Let's install paint.net
 +++
 
 @title[Build Step]
-Let's install paint.net
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-7.png)
@@ -109,7 +102,6 @@ Let's install paint.net
 +++
 
 @title[Build Step]
-Let's install paint.net
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-8.png)
@@ -117,7 +109,6 @@ Let's install paint.net
 +++
 
 @title[Build Step]
-Let's install paint.net
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-9.png)
@@ -125,7 +116,6 @@ Let's install paint.net
 +++
 
 @title[Build Step]
-Let's install paint.net
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-10.png)
@@ -133,7 +123,6 @@ Let's install paint.net
 +++
 
 @title[Build Step]
-Let's install paint.net
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-11.png)
@@ -141,7 +130,6 @@ Let's install paint.net
 +++
 
 @title[Build Step]
-Let's install paint.net
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-12.png)
@@ -154,7 +142,7 @@ Let's install paint.net
 - PowerShel Module simplifies work |
 - Packages are independent building blocks |
 - Integrates with Configuration Management |
-- Business Friendly Features
+- Business Friendly Features |
 
 ---
 
@@ -165,7 +153,7 @@ Let's install paint.net
 - PowerShell |
 - Flexible |
 - Secure |
-- Reliable
+- Reliable |
 
 ---
 
@@ -175,13 +163,13 @@ Let's install paint.net
 - Community Feed / Community Maintained |
 - Moderated as of October 2014 |
 - Everything goes through VirusTotal |
-- Organisation should NOT depend on this due to trust and control concerns
+- Organisation should NOT depend on this due to trust and control concerns |
 
 ---
 
 ### Hosting your own package server
 
-- https://chocolatey.org/docs/how-to-host-feed |
+- https://chocolatey.org/docs/how-to-host-feed
 - Non-Windows Hosting
   - Artifactory
   - Sonatype Nexus
