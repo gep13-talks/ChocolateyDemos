@@ -52,7 +52,8 @@
 ---
 
 @title[Let's install paint.net]
-Let's install paint.net
+
+## Let's install paint.net
 
 +++
 
@@ -133,7 +134,7 @@ Let's install paint.net
 
 ---
 
-### "There has to be a better way!"
+## "There has to be a better way!"
 
 +++
 
