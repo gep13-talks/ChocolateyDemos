@@ -16,7 +16,6 @@
 ---
 
 @title[It's Magic!]
-### It's Magic!
 
 ![It's Magic](assets/images/magic.gif)
 
