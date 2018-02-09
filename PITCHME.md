@@ -13,7 +13,7 @@
 
 ### A Definition...
 
-"Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind."
+"Chocolatey is a global PowerShell execution engine using the NuGet packaging infrastructure. Think of it as the ultimate automation tool for Windows."
 
 +++
 
@@ -142,7 +142,7 @@
 
 +++
 
-![Chocolatey](assets/images/logo_long.png)
+![Chocolatey](assets/images/icon.png)
 
 ---
 
