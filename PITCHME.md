@@ -29,7 +29,7 @@
 
 +++
 
-### There is no place more eveident of that still than in the Windows Software Installer ecosystem
+### There is no place more evident of that still than in the Windows Software Installer ecosystem
 
 +++
 
@@ -43,7 +43,11 @@
 - Over 20 installer formats and thousands of installers in the wild |
 - Zips and other archive formats |
 - Software installers are messy |
-- It's like the wild west
+- It's like the wild west |
+
++++
+
+![Wild West](assets/images/clint_eastwood.png)
 
 ---
 
@@ -127,9 +131,19 @@ Let's install paint.net
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-11.png)
 
+---
+
+### "There has to be a better way!"
+
 +++
 
+![Chocolatey](assets/images/logo_long.png)
+
+---
+
 @title[Build Step]
+
+### Installation is easy...
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-12.png)
@@ -164,6 +178,16 @@ Let's install paint.net
 - Moderated as of October 2014 |
 - Everything goes through VirusTotal |
 - Organisation should NOT depend on this due to trust and control concerns |
+
++++
+
+![Community Repository](assets/images/community_repo.png)
+
++++
+
+### That is just the beginning...
+
+![iceberg](assets/images/iceberg.png)
 
 ---
 
