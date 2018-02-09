@@ -187,7 +187,7 @@ Let's install paint.net
 
 ### That is just the beginning...
 
-![iceberg](assets/images/iceberg.png)
+![iceberg](assets/images/Iceberg.png)
 
 ---
 
