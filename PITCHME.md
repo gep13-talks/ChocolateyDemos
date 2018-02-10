@@ -240,18 +240,16 @@ Mention laptop setup:
 ## Just the beginning...
 
 - choco upgrade all |
-- Package extensions |
-- Package Internalizer |
+- Package Downloader / Internalizer |
 - Sync with Programs and Features |
 - Self Service Installer |
-- Central Management UI |
+- Central Management UI / choco deploy |
 - Package Audit |
 - Package Reducer |
 - Package Throttle |
 - Install Directory Override |
 - Download CDN Cache |
 - Runtime Malware/Virus Protection |
-- Package Downloader |
 
 ---
 
