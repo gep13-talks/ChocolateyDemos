@@ -44,10 +44,10 @@
 
 ### Windows Software Ecosystem
 
-- Over 20 installer formats and thousands of installers in the wild |
-- Zips and other archive formats |
-- Software installers are messy |
-- It's like the wild west |
+- Over 20 installer formats and thousands of installers in the wild
+- Zips and other archive formats
+- Software installers are messy
+- It's like the wild west
 
 +++
 
