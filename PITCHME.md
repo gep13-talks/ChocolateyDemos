@@ -156,33 +156,33 @@
 
 ### Chocolatey - Sane Software Management
 
-- Easily manage the software lifecycle |
-- Native installers, zips and binaries |
-- PowerShell Module simplifies work |
-- Packages are independent building blocks |
-- Integrates with Configuration Management |
-- Business Friendly Features |
+- Easily manage the software lifecycle
+- Native installers, zips and binaries
+- PowerShell Module simplifies work
+- Packages are independent building blocks
+- Integrates with Configuration Management
+- Business Friendly Features
 
 ---
 
 ### Chocolatey - The Approach
 
-- Single, unifying interface - control the chaos |
-- Decentralized - mulitple places to get packages, including internal |
-- PowerShell |
-- Flexible |
-- Secure |
-- Reliable |
+- Single, unifying interface - control the chaos
+- Decentralized - mulitple places to get packages, including internal
+- PowerShell
+- Flexible
+- Secure
+- Reliable
 
 ---
 
 ### Community Package Repository
 
-- https://chocolatey.org/packages |
-- Community Feed / Community Maintained |
-- Moderated as of October 2014 |
-- Everything goes through VirusTotal |
-- Organisations should NOT depend on this due to trust and control concerns |
+- https://chocolatey.org/packages
+- Community Feed / Community Maintained
+- Moderated as of October 2014
+- Everything goes through VirusTotal
+- Organisations should NOT depend on this due to trust and control concerns
 
 +++
 
@@ -198,25 +198,25 @@
 
 ### Hosting your own package server
 
-- [https://chocolatey.org/docs/how-to-host-feed](https://chocolatey.org/docs/how-to-host-feed) |
-- Non-Windows Hosting |
-  - Artifactory |
-  - Sonatype Nexus |
-- NuGet Gallery |
-- ProGet / MyGet |
-- NuGet.Server / Chocolatey.Server |
+- [https://chocolatey.org/docs/how-to-host-feed](https://chocolatey.org/docs/how-to-host-feed)
+- Non-Windows Hosting
+  - Artifactory
+  - Sonatype Nexus
+- NuGet Gallery
+- ProGet / MyGet
+- NuGet.Server / Chocolatey.Server
 
 ---
 
 ### Chocolatey Packages
 
-- Zip files + Versioning, Dependencies & PowerShell |
-- Metadata Software Information / Package Information |
-- PowerShell |
-  - 30+ Built-in functions - turn hard tasks into one-liners |
-  - Handle additional missing installer logic (like add to PATH) |
-  - Add options missing from installer arguments |
-- Files - drop in binaries / native installers |
+- Zip files + Versioning, Dependencies & PowerShell
+- Metadata Software Information / Package Information
+- PowerShell
+  - 30+ Built-in functions - turn hard tasks into one-liners
+  - Handle additional missing installer logic (like add to PATH)
+  - Add options missing from installer arguments
+- Files - drop in binaries / native installers
 
 ---
 
@@ -239,17 +239,16 @@ Mention laptop setup:
 
 ## Just the beginning...
 
-- choco upgrade all |
-- Package Downloader / Internalizer |
-- Sync with Programs and Features |
-- Self Service Installer |
-- Central Management UI / choco deploy |
-- Package Audit |
-- Package Reducer |
-- Package Throttle |
-- Install Directory Override |
-- Download CDN Cache |
-- Runtime Malware/Virus Protection |
+- choco upgrade all
+- Package Downloader / Internalizer
+- Sync with Programs and Features
+- Self Service Installer
+- Central Management UI / choco deploy
+- Package Audit
+- Package Reducer
+- Install Directory Override
+- Download CDN Cache
+- Runtime Malware/Virus Protection
 
 ---
 
