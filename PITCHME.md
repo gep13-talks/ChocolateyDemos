@@ -3,6 +3,7 @@
 ## Adding a layer of Chocolate(y)
 
 ---
+
 @title[What is Chocolatey?]
 
 ## What is Chocolatey?
@@ -23,6 +24,8 @@
 
 ---
 
+@title[Windows Software Ecosystem]
+
 ## Windows Software Ecosystem
 
 +++
@@ -33,16 +36,21 @@
 
 +++
 
+@title[Still evident]
+
 ### There is no place more evident of that still than in the Windows Software Installer ecosystem
 
 +++
 
 @title[Windows Software Installers]
+
 ![Windows Software Installers](assets/images/picard-meme.png)
 
 +++
 
-### Windows Software Ecosystem
+@title[No Consistency]
+
+### No Consistency
 
 - Over 20 installer formats and thousands of installers in the wild
 - Zips and other archive formats
@@ -50,6 +58,8 @@
 - It's like the wild west
 
 +++
+
+@title[Wild West]
 
 ![Wild West](assets/images/clint_eastwood.png)
 
@@ -61,98 +71,103 @@
 
 +++
 
-@title[Build Step]
+@title[paint.net website]
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-1.png)
 
 +++
 
-@title[Build Step]
+@title[Not the paint.net website]
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-2.png)
 
 +++
 
-@title[Build Step]
+@title[Google paint.net]
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-3.png)
 
 +++
 
-@title[Build Step]
+@title[Actual paint.net website]
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-4.png)
 
 +++
 
-@title[Build Step]
+@title[paint.net download]
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-5.png)
 
 +++
 
-@title[Build Step]
+@title[Mirror website]
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-6.png)
 
 +++
 
-@title[Build Step]
+@title[Actual paint.net download]
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-7.png)
 
 +++
 
-@title[Build Step]
+@title[Unblock zip file]
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-8.png)
 
 +++
 
-@title[Build Step]
+@title[Extract zip file]
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-9.png)
 
 +++
 
-@title[Build Step]
+@title[Install paint.net]
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-10.png)
 
 +++
 
-@title[Build Step]
+@title[paint.net dependencies]
 
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-11.png)
 
 ---
 
+@title[There has to be a better way!]
+
 ## "There has to be a better way!"
 
 +++
+
+@title[Chocolatey]
 
 ![Chocolatey](assets/images/icon.png)
 
 ---
 
-@title[Build Step]
+@title[Installing is easy...]
 
-### Installation is easy...
+### Installing is easy...
 
-<!-- .slide: data-transition="none" -->
 ![Build Step](assets/images/install-paint.net-step-12.png)
 ---
+
+@title[Sane Software Management]
 
 ### Chocolatey - Sane Software Management
 
@@ -165,6 +180,8 @@
 
 ---
 
+@title[The Approach]
+
 ### Chocolatey - The Approach
 
 - Single, unifying interface - control the chaos
@@ -176,9 +193,11 @@
 
 ---
 
+@title[Community Package Repository]
+
 ### Community Package Repository
 
-- https://chocolatey.org/packages
+- [https://chocolatey.org/packages](https://chocolatey.org/packages)
 - Community Feed / Community Maintained
 - Moderated as of October 2014
 - Everything goes through VirusTotal
@@ -186,15 +205,21 @@
 
 +++
 
+@title[Community Repository Stats]
+
 ![Community Repository](assets/images/community_repo.png)
 
 +++
+
+@title[That is just the beginning...]
 
 ### That is just the beginning...
 
 ![iceberg](assets/images/Iceberg.jpg)
 
 ---
+
+@title[Hosting your own package server]
 
 ### Hosting your own package server
 
@@ -208,6 +233,8 @@
 
 ---
 
+@title[Chocolatey Packages]
+
 ### Chocolatey Packages
 
 - Zip files + Versioning, Dependencies & PowerShell
@@ -220,9 +247,9 @@
 
 ---
 
-@title[Source Code]
+@title[Slides/Demos]
 
-## Source Code
+## Slides/Demos
 
 ### http://gep13.me/ChocolateyDemos
 
@@ -237,7 +264,9 @@ Mention laptop setup:
 
 ---
 
-## Just the beginning...
+@title[Only getting started...]
+
+## Only getting started...
 
 - choco upgrade all
 - Package Downloader / Internalizer
@@ -270,6 +299,6 @@ Web: http://www.gep13.co.uk
 
 ## Resources
 
-* Chocolatey Documentation - https://chocolatey.org/docs
-* Source Code - https://github.com/chocolatey/choco
-* Learning Resources - https://chocolatey.org/docs/resources
+- Chocolatey Documentation - [https://chocolatey.org/docs](https://chocolatey.org/docs)
+- Source Code - [https://github.com/chocolatey/choco](https://github.com/chocolatey/choco)
+- Learning Resources - [https://chocolatey.org/docs/resources](https://chocolatey.org/docs/resources)
