@@ -237,6 +237,24 @@ Mention laptop setup:
 
 ---
 
+## Just the beginning...
+
+- choco upgrade all |
+- Package extensions |
+- Package Internalizer |
+- Sync with Programs and Features |
+- Self Service Installer |
+- Central Management UI |
+- Package Audit |
+- Package Reducer |
+- Package Throttle |
+- Install Directory Override |
+- Download CDN Cache |
+- Runtime Malware/Virus Protection |
+- Package Downloader |
+
+---
+
 @title[Questions]
 
 ## Questions
