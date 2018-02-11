@@ -2,3 +2,4 @@ theme : beige
 footnote : "@gep13"
 logo : assets/images/choco-logo.png
 theme-override : assets/css/PITCHME.css
+gatoken : UA-20926037-2
