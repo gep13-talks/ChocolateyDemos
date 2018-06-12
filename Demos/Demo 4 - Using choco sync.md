@@ -3,3 +3,4 @@
 1. Run choco list -lo again, show how Chocolatey removes the entry, as well as the lib folders
 1. Run choco uninstall paint.net
 1. Show it removed from the add remove programs list
+1. Run `choco sync` to show all packages moved under Chocolatey management
