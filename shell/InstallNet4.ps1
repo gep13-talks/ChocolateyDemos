@@ -1,5 +1,5 @@
-$NetFx4ClientUrl = 'http://download.microsoft.com/download/5/6/2/562A10F9-C9F4-4313-A044-9C94E0A8FAC8/dotNetFx40_Client_x86_x64.exe'
-$NetFx4FullUrl = 'http://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe'
+$NetFx4ClientUrl = 'https://download.microsoft.com/download/5/6/2/562A10F9-C9F4-4313-A044-9C94E0A8FAC8/dotNetFx40_Client_x86_x64.exe'
+$NetFx4FullUrl = 'https://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe'
 $NetFx4Url = $NetFx4FullUrl
 $NetFx4Path = 'c:\vagrant\resources\NetFx4'
 $NetFx4InstallerFile = 'dotNetFx40_Full_x86_x64.exe'
@@ -29,7 +29,7 @@ param(
     $psi.WorkingDirectory = "$NetFx4Path"
     $psi.FileName = "$NetFx4InstallerFile"
     # https://msdn.microsoft.com/library/ee942965(v=VS.100).aspx#command_line_options
-    # http://blogs.msdn.com/b/astebner/archive/2010/05/12/10011664.aspx
+    # https://blogs.msdn.com/b/astebner/archive/2010/05/12/10011664.aspx
     # For the actual setup.exe (if you want to unpack first) - /repair /x86 /x64 /ia64 /parameterfolder Client /q /norestart
     $psi.Arguments = "/q /norestart /repair"
 

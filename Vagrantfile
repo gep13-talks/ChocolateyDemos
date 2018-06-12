@@ -1,5 +1,5 @@
 ﻿# Vagrant File (Vagrantfile)
-# http://docs.vagrantup.com/v2/vagrantfile/index.html
+# https://docs.vagrantup.com/v2/vagrantfile/index.html
 
 # Windows guests can't even be used with Vagrant versions less than 1.3.5.
 Vagrant.require_version ">= 1.3.5"
@@ -10,14 +10,14 @@ if Vagrant::VERSION < '1.6.0'
   Vagrant.require_plugin "vagrant-windows"
 end
 
-# http://docs.vagrantup.com/v2/vagrantfile/machine_settings.html
+# https://docs.vagrantup.com/v2/vagrantfile/machine_settings.html
 Vagrant.configure("2") do |config|
   # This setting will download the atlas box at
   # https://atlas.hashicorp.com/ferventcoder/boxes/win2012r2-x64-nocm
   config.vm.box = "ferventcoder/win2012r2-x64-nocm"
 
-  # http://docs.vagrantup.com/v2/providers/configuration.html
-  # http://docs.vagrantup.com/v2/virtualbox/configuration.html
+  # https://docs.vagrantup.com/v2/providers/configuration.html
+  # https://docs.vagrantup.com/v2/virtualbox/configuration.html
   config.vm.provider :virtualbox do |v, override|
     # Show the GUI
     v.gui = true
@@ -77,7 +77,7 @@ Vagrant.configure("2") do |config|
     config.vm.communicator = "winrm"
   end
 
-  # Synced folders - http://docs.vagrantup.com/v2/synced-folders/
+  # Synced folders - https://docs.vagrantup.com/v2/synced-folders/
   # A synced folder is a fancy term for shared folders - it takes a folder on
   # the host and shares it with the guest (vagrant) image. The entire folder
   # where the Vagrantfile is located is always shared as `c:\vagrant` (the
@@ -98,9 +98,9 @@ Vagrant.configure("2") do |config|
   # hurt anything to have it
   config.vm.network :forwarded_port, guest: 22, host: 2222, id: "ssh", auto_correct: true #, host_ip: "127.0.0.1"
 
-  # Provisioners - http://docs.vagrantup.com/v2/provisioning/
+  # Provisioners - https://docs.vagrantup.com/v2/provisioning/
   # In this specific vagrant usage, we are using the shell provisioner
-  # http://docs.vagrantup.com/v2/provisioning/shell.html
+  # https://docs.vagrantup.com/v2/provisioning/shell.html
   if Vagrant::VERSION < '1.8.0'
     config.vm.provision :shell, :path => "shell/PrepareWindows.ps1"
     config.vm.provision :shell, :path => "shell/InstallNet4.ps1"
@@ -125,7 +125,7 @@ Write-Output "Testing package if a line is uncommented."
 # - uncomment one of the two and edit it appropriately
 # - See the README for details
 #choco.exe install -fdvy plexamp --version 1.0.5 --allow-downgrade
-#choco.exe install -fdvy INSERT_NAME  --allow-downgrade --source "'c:\\packages;http://chocolatey.org/api/v2/'"
+#choco.exe install -fdvy INSERT_NAME  --allow-downgrade --source "'c:\\packages;https://chocolatey.org/api/v2/'"
 
 $exitCode = $LASTEXITCODE
 

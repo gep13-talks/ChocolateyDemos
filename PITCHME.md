@@ -7,7 +7,7 @@
 
 ## Slides
 
-### http://gep13.me/ChocolateySlides
+### https://gep13.me/ChocolateySlides
 
 ---
 
@@ -258,7 +258,7 @@
 
 ## Slides/Demos
 
-### http://gep13.me/ChocolateyDemos
+### https://gep13.me/ChocolateyDemos
 
 ---
 
@@ -298,7 +298,7 @@ Email: gep13@gep13.co.uk
 
 Twitter: @gep13
 
-Web: http://www.gep13.co.uk
+Web: https://www.gep13.co.uk
 
 ---
 
