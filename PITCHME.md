@@ -3,6 +3,13 @@
 ## Adding a layer of Chocolate(y)
 
 ---
+@title[Slides]
+
+## Slides
+
+### http://gep13.me/ChocolateySlides
+
+---
 
 @title[What is Chocolatey?]
 
