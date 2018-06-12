@@ -108,3 +108,13 @@ Backup*/
 UpgradeLog*.XML
 
 .DS_Store
+
+.vagrant
+dotNetFx40.exe
+SQLServer
+.DS_Store
+.librarian
+.tmp
+packages
+*.license.xml
+1PasswordSetup*.exe
