@@ -3,11 +3,16 @@
 ## Adding a layer of Chocolate(y)
 
 ---
-@title[Slides]
+@title[Slides and Code]
 
 ## Slides
 
-### https://gep13.me/ChocolateySlides
+### https://gep13.me/ChocoSlides
+
+
+## Code
+
+### https://gep13.me/ChocoCode
 
 ---
 
@@ -27,7 +32,7 @@
 
 @title[It's Magic!]
 
-![It's Magic](assets/images/magic.gif)
+![It's Magic](assets/img/magic.gif)
 
 ---
 
@@ -51,7 +56,7 @@
 
 @title[Windows Software Installers]
 
-![Windows Software Installers](assets/images/picard-meme.png)
+![Windows Software Installers](assets/img/picard-meme.png)
 
 +++
 
@@ -68,7 +73,7 @@
 
 @title[Wild West]
 
-![Wild West](assets/images/clint_eastwood.png)
+![Wild West](assets/img/clint_eastwood.png)
 
 ---
 
@@ -81,77 +86,77 @@
 @title[paint.net website]
 
 <!-- .slide: data-transition="none" -->
-![Build Step](assets/images/install-paint.net-step-1.png)
+![Build Step](assets/img/install-paint.net-step-1.png)
 
 +++
 
 @title[Not the paint.net website]
 
 <!-- .slide: data-transition="none" -->
-![Build Step](assets/images/install-paint.net-step-2.png)
+![Build Step](assets/img/install-paint.net-step-2.png)
 
 +++
 
 @title[Google paint.net]
 
 <!-- .slide: data-transition="none" -->
-![Build Step](assets/images/install-paint.net-step-3.png)
+![Build Step](assets/img/install-paint.net-step-3.png)
 
 +++
 
 @title[Actual paint.net website]
 
 <!-- .slide: data-transition="none" -->
-![Build Step](assets/images/install-paint.net-step-4.png)
+![Build Step](assets/img/install-paint.net-step-4.png)
 
 +++
 
 @title[paint.net download]
 
 <!-- .slide: data-transition="none" -->
-![Build Step](assets/images/install-paint.net-step-5.png)
+![Build Step](assets/img/install-paint.net-step-5.png)
 
 +++
 
 @title[Mirror website]
 
 <!-- .slide: data-transition="none" -->
-![Build Step](assets/images/install-paint.net-step-6.png)
+![Build Step](assets/img/install-paint.net-step-6.png)
 
 +++
 
 @title[Actual paint.net download]
 
 <!-- .slide: data-transition="none" -->
-![Build Step](assets/images/install-paint.net-step-7.png)
+![Build Step](assets/img/install-paint.net-step-7.png)
 
 +++
 
 @title[Unblock zip file]
 
 <!-- .slide: data-transition="none" -->
-![Build Step](assets/images/install-paint.net-step-8.png)
+![Build Step](assets/img/install-paint.net-step-8.png)
 
 +++
 
 @title[Extract zip file]
 
 <!-- .slide: data-transition="none" -->
-![Build Step](assets/images/install-paint.net-step-9.png)
+![Build Step](assets/img/install-paint.net-step-9.png)
 
 +++
 
 @title[Install paint.net]
 
 <!-- .slide: data-transition="none" -->
-![Build Step](assets/images/install-paint.net-step-10.png)
+![Build Step](assets/img/install-paint.net-step-10.png)
 
 +++
 
 @title[paint.net dependencies]
 
 <!-- .slide: data-transition="none" -->
-![Build Step](assets/images/install-paint.net-step-11.png)
+![Build Step](assets/img/install-paint.net-step-11.png)
 
 ---
 
@@ -163,7 +168,7 @@
 
 @title[Chocolatey]
 
-![Chocolatey](assets/images/icon.png)
+![Chocolatey](assets/img/icon.png)
 
 ---
 
@@ -171,7 +176,7 @@
 
 ### Installing is easy...
 
-![Build Step](assets/images/install-paint.net-step-12.png)
+![Build Step](assets/img/install-paint.net-step-12.png)
 ---
 
 @title[Sane Software Management]
@@ -214,7 +219,7 @@
 
 @title[Community Repository Stats]
 
-![Community Repository](assets/images/community_repo.png)
+![Community Repository](assets/img/community_repo.png)
 
 +++
 
@@ -222,7 +227,7 @@
 
 ### That is just the beginning...
 
-![iceberg](assets/images/Iceberg.jpg)
+![iceberg](assets/img/Iceberg.jpg)
 
 ---
 
@@ -232,8 +237,8 @@
 
 - [https://chocolatey.org/docs/how-to-host-feed](https://chocolatey.org/docs/how-to-host-feed)
 - Non-Windows Hosting
-  - Artifactory
-  - Sonatype Nexus
+  - [Artifactory](https://youtu.be/rMivH0DS9q8)
+  - [Sonatype Nexus](https://youtu.be/UehkG1VHtz0)
 - NuGet Gallery
 - ProGet / MyGet
 - NuGet.Server / Chocolatey.Server
@@ -254,11 +259,16 @@
 
 ---
 
-@title[Slides/Demos]
+@title[Slides and Code]
 
-## Slides/Demos
+## Slides
 
-### https://gep13.me/ChocolateyDemos
+### https://gep13.me/ChocoSlides
+
+
+## Code
+
+### https://gep13.me/ChocoCode
 
 ---
 
@@ -285,6 +295,37 @@ Mention laptop setup:
 - Install Directory Override
 - Download CDN Cache
 - Runtime Malware/Virus Protection
+
+---?color=#7FDBFF
+@title[Who Am I? - Gary Ewan Park]
+
+@snap[north-west]
+Who am I?
+@snapend
+
+@snap[west span-65]
+Senior Software Engineer @ Chocolatey Software
+<br>
+<br>
+![Chocolatey](assets/img/chocolatey.png)
+![MVP Logo](assets/img/mvp.jpg)
+![Cake Build](assets/img/cake.png)
+@snapend
+
+@snap[east span-30]
+![Gary Ewan Park](assets/img/gary-avatar.png)
+<br>
+
+Gary Ewan Park
+
+@snapend
+
+@snap[south-west bio-contact]
+@fa[twitter twitter-blue]&nbsp;&nbsp;gep13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+@fa[github text-black]&nbsp;&nbsp;github.com/gep13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+@fa[home text-blue]&nbsp;&nbsp;gep13.co.uk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+@fa[envelope choco-blue]&nbsp;&nbsp;gary@chocolatey.io
+@snapend
 
 ---
 
