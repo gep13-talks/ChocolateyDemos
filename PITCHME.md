@@ -24,9 +24,7 @@
 
 @title[A Definition...]
 
-### A Definition...
-
-"Chocolatey is a global PowerShell execution engine using the NuGet packaging infrastructure. Think of it as the ultimate automation tool for Windows."
+@quote[Chocolatey is a global PowerShell execution engine using the NuGet packaging infrastructure. Think of it as the ultimate automation tool for Windows.](Chocolatey Website)"
 
 +++
 
