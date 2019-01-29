@@ -8,3 +8,5 @@ This talk was first given at [Aberdeen Developers .Net User Group](http://www.ab
 This talk was then given at [DDD Scotland](https://ddd.scot) on Saturday 10th February 2018.  The slides for this talk can be found [here](https://gitpitch.com/gep13/ChocolateyDemos/dddscot).
 
 This talk was then given at [DOUGH - DevOps Usergroup Gothenburg](https://www.meetup.com/DOUGH-DevOps-Usergroup-Gothenburg/) on Tuesday 12th June 2018.  The slides for this talk can be found [here](https://gitpitch.com/gep13/ChocolateyDemos/dough)
+
+This talk was then given at [dotnetsheff](https://dotnetsheff.co.uk/) on Monday 28th January 2019.  The slides for this talk can be found [here](https://gitpitch.com/gep13/ChocolateyDemos/dotnetsheff2019)
