@@ -344,7 +344,7 @@ Gary Ewan Park
 
 Feel free to get in touch
 
-Email: gep13@gep13.co.uk
+Email: gary@chocolatey.io
 
 Twitter: @gep13
 
