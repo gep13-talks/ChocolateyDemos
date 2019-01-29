@@ -51,8 +51,8 @@ transition : none
 # Twitter Card Settings
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "How to create a system of Immutable Infrastructure"
-description : "Switching to a system of Immutable Infrastructure means that new machines are provisioned and swapped out with existing machines, which can then be destroyed."
+title : "Adding a layer of Chocolate(y)"
+description : "Following the recent announcement at Build 2018 where Microsoft said that they are going to be collaborating with Chocolatey and Boxstarter, there has never been a better time to start using these applications."
 thumbnail :
 
 logo : assets/images/choco-logo.png
