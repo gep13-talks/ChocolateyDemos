@@ -14,17 +14,28 @@
 
 ### https://gep13.me/ChocoCode
 
----
+---?image=assets/img/bg/black.jpg&position=left&size=35% 100%
+@title[What is Immutable Infrastructure?]
 
-@title[What is Chocolatey?]
+@snap[west h4-white]
+#### Question
+@snapend
 
-## What is Chocolatey?
+@snap[east span-80]
+#### What is
+## @css[text-gold text-bold](Chocolatey )@fa[question]
+@snapend
 
-+++
+---?image=assets/img/bg/blue.jpg&position=left&size=35% 100%
+@title[Immutable Infrastructure]
 
-@title[A Definition...]
+@snap[west h4-white]
+#### Answer
+@snapend
 
+@snap[east span-70]
 @quote[Chocolatey is a global PowerShell execution engine using the NuGet packaging infrastructure. Think of it as the ultimate automation tool for Windows.](Chocolatey Website)"
+@snapend
 
 +++
 
