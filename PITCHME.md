@@ -206,7 +206,7 @@
 ### Chocolatey - The Approach
 
 - Single, unifying interface - control the chaos
-- Decentralized - mulitple places to get packages, including internal
+- Decentralized - multiple places to get packages, including internal
 - PowerShell
 - Flexible
 - Secure
