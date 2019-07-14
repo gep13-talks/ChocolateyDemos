@@ -15,7 +15,7 @@
 ### https://gep13.me/ChocoCode
 
 ---?image=assets/img/bg/black.jpg&position=left&size=35% 100%
-@title[What is Immutable Infrastructure?]
+@title[What is Chocolatey?]
 
 @snap[west h4-white]
 #### Question
