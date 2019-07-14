@@ -1,24 +1,28 @@
 @title[Adding a layer of Chocolate(y)]
 
-## Adding a layer of Chocolate(y)
+@snap[midpoint h3-blue span-100]
+# Chocolatey
+### Adding a layer
+@snapend
 
 ---
 @title[Slides and Code]
 
 ## Slides
 
-### https://gep13.me/ChocoSlides
+#### https://gep13.me/ChocoSlides
 
+@fa[plus-square fa-2x fa-pad-icon text-gold]
 
 ## Code
 
-### https://gep13.me/ChocoCode
+#### https://gep13.me/ChocoCode
 
----?image=assets/img/bg/black.jpg&position=left&size=35% 100%
+---?color=linear-gradient(90deg, black 25%, white 25%)
 @title[What is Chocolatey?]
 
-@snap[west h4-white]
-#### Question
+@snap[west h1-white]
+# Q
 @snapend
 
 @snap[east span-80]
@@ -26,11 +30,15 @@
 ## @css[text-gold text-bold](Chocolatey )@fa[question]
 @snapend
 
----?image=assets/img/bg/blue.jpg&position=left&size=35% 100%
-@title[Immutable Infrastructure]
+---?color=linear-gradient(90deg, #5289F7 25%, white 25%)
+@title[Magic]
 
-@snap[west h4-white]
-#### Answer
+@snap[north-east text-05 text-gray]
+Q. What is Chocolately?
+@snapend
+
+@snap[west h1-white]
+#### A
 @snapend
 
 @snap[east span-70]
