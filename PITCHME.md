@@ -42,20 +42,62 @@ Q. What is Chocolately?
 @snapend
 
 @snap[east span-70]
-@quote[Chocolatey is a global PowerShell execution engine using the NuGet packaging infrastructure. Think of it as the ultimate automation tool for Windows.](Chocolatey Website)"
+@quote[Chocolatey allows you to deploy any Windows software, anywhere, with anything, and manage and track that software over time.](Rob Reynolds - Creator of Chocolatey)"
 @snapend
 
 +++
 
+#### Chocolatey is a package manager for Windows
+
++++
+
+#### Similar to apt-get, yum, and Homebrew
+
++++
+
+### With Chocolatey you can...
+
+* Manage ANY software, not just installers
+* Define dependencies
+* Write a software deployment one time (with PowerShell)
+* Test your deployment before deploying to Production
+* Deploy to any supported version of Windows (including Server.Core and Docker Containers)
+* Track and Report on software
+
++++?image=assets/img/magic.gif&size=45% auto&color=#A74433
+
 @title[It's Magic!]
 
-![It's Magic](assets/img/magic.gif)
+---?color=linear-gradient(90deg, black 25%, white 25%)
+@title[What problem is Chocolatey trying to solve?]
 
----
+@snap[west h1-white]
+# Q
+@snapend
 
+@snap[east span-80 text-right]
+
+#### What problem is Chocolatey
+## @css[text-gold text-bold](trying to solve )@fa[question]
+
+@snapend
+
+---?color=linear-gradient(90deg, #5289F7 25%, white 25%)
 @title[Windows Software Ecosystem]
 
+@snap[north-east text-05 text-gray]
+Q. What problem is Chocolately trying to solve?
+@snapend
+
+@snap[west h1-white]
+
+# A
+
+@snapend
+
+@snap[east span-70]
 ## Windows Software Ecosystem
+@snapend
 
 +++
 
@@ -69,7 +111,7 @@ Q. What is Chocolately?
 
 ### There is no place more evident of that still than in the Windows Software Installer ecosystem
 
-+++
++++?color=#8B1E26
 
 @title[Windows Software Installers]
 
@@ -86,11 +128,27 @@ Q. What is Chocolately?
 - Software installers are messy
 - It's like the wild west
 
-+++
++++?color=#261F1D
 
 @title[Wild West]
 
 ![Wild West](assets/img/clint_eastwood.png)
+
+---?color=linear-gradient(90deg, black 25%, white 25%)
+@title[How does it work?]
+
+@snap[west h1-white]
+
+# Q
+
+@snapend
+
+@snap[east span-80]
+
+#### How does Chocolatey
+# @css[text-gold text-bold](work )@fa[question]
+
+@snapend
 
 ---
 
@@ -175,7 +233,7 @@ Q. What is Chocolately?
 <!-- .slide: data-transition="none" -->
 ![Build Step](assets/img/install-paint.net-step-11.png)
 
----
++++
 
 @title[There has to be a better way!]
 
@@ -187,25 +245,41 @@ Q. What is Chocolately?
 
 ![Chocolatey](assets/img/icon.png)
 
----
+---?color=linear-gradient(90deg, #5289F7 25%, white 25%)
+@title[A series of simple commands]
 
-@title[Installing is easy...]
+@snap[north-east text-05 text-gray]
+Q. How does Chocolately work?
+@snapend
 
-### Installing is easy...
+@snap[west h1-white]
 
-![Build Step](assets/img/install-paint.net-step-12.png)
+# A
+
+@snapend
+
+@snap[east span-70]
+## A series of simple commands
+@snapend
+
++++
+
+@code[powershell zoom-25](assets/files/cmds.ps1)
+
 ---
 
 @title[Sane Software Management]
 
 ### Chocolatey - Sane Software Management
 
-- Easily manage the software lifecycle
-- Native installers, zips and binaries
-- PowerShell Module simplifies work
-- Packages are independent building blocks
-- Integrates with Configuration Management
-- Business Friendly Features
+@ul[text-08](false)
+* Easily manage the software lifecycle
+* Native installers, zips and binaries
+* PowerShell Module simplifies work
+* Packages are independent building blocks
+* Integrates with Configuration Management
+* Business Friendly Features
+@ulend
 
 ---
 
@@ -213,12 +287,14 @@ Q. What is Chocolately?
 
 ### Chocolatey - The Approach
 
-- Single, unifying interface - control the chaos
-- Decentralized - multiple places to get packages, including internal
-- PowerShell
-- Flexible
-- Secure
-- Reliable
+@ul[text-08](false)
+* Single, unifying interface - control the chaos
+* Decentralized - multiple places to get packages, including internal
+* PowerShell
+* Flexible
+* Secure
+* Reliable
+@ulend
 
 ---
 
@@ -226,11 +302,13 @@ Q. What is Chocolately?
 
 ### Community Package Repository
 
-- [https://chocolatey.org/packages](https://chocolatey.org/packages)
-- Community Feed / Community Maintained
-- Moderated as of October 2014
-- Everything goes through VirusTotal
-- Organisations should NOT depend on this due to trust and control concerns
+@ul[text-08](false)
+* [https://chocolatey.org/packages](https://chocolatey.org/packages)
+* Community Feed / Community Maintained
+* Moderated as of October 2014
+* Everything goes through VirusTotal
+* Organisations should NOT depend on this due to trust and control concerns
+@ulend
 
 +++
 
@@ -252,13 +330,15 @@ Q. What is Chocolately?
 
 ### Hosting your own package server
 
-- [https://chocolatey.org/docs/how-to-host-feed](https://chocolatey.org/docs/how-to-host-feed)
-- Non-Windows Hosting
-  - [Artifactory](https://youtu.be/rMivH0DS9q8)
-  - [Sonatype Nexus](https://youtu.be/UehkG1VHtz0)
-- NuGet Gallery
-- ProGet / MyGet
-- NuGet.Server / Chocolatey.Server
+@ul[text-08](false)
+* [https://chocolatey.org/docs/how-to-host-feed](https://chocolatey.org/docs/how-to-host-feed)
+* Non-Windows Hosting
+  * [Artifactory](https://youtu.be/rMivH0DS9q8)
+  * [Sonatype Nexus](https://youtu.be/UehkG1VHtz0)
+* NuGet Gallery
+* ProGet / MyGet
+* NuGet.Server / Chocolatey.Server
+@ulend
 
 ---
 
@@ -266,28 +346,30 @@ Q. What is Chocolately?
 
 ### Chocolatey Packages
 
-- Zip files + Versioning, Dependencies & PowerShell
-- Metadata Software Information / Package Information
-- PowerShell
-  - 30+ Built-in functions - turn hard tasks into one-liners
-  - Handle additional missing installer logic (like add to PATH)
-  - Add options missing from installer arguments
-- Files - drop in binaries / native installers
+@ul[text-08](false)
+* Zip files + Versioning, Dependencies & PowerShell
+* Metadata Software Information / Package Information
+* PowerShell
+  * 30+ Built-in functions - turn hard tasks into one-liners
+  * Handle additional missing installer logic (like add to PATH)
+  * Add options missing from installer arguments
+* Files - drop in binaries / native installers
+@ulend
 
 ---
-
 @title[Slides and Code]
 
 ## Slides
 
-### https://gep13.me/ChocoSlides
+#### https://gep13.me/ChocoSlides
 
+@fa[plus-square fa-2x fa-pad-icon text-gold]
 
 ## Code
 
-### https://gep13.me/ChocoCode
+#### https://gep13.me/ChocoCode
 
----
+---?color=beige
 
 @title[Demos]
 
@@ -302,22 +384,24 @@ Mention laptop setup:
 
 ## Only getting started...
 
-- choco upgrade all
-- Package Downloader / Internalizer
-- Sync with Programs and Features
-- Self Service Installer
-- Central Management UI / choco deploy
-- Package Audit
-- Package Reducer
-- Install Directory Override
-- Download CDN Cache
-- Runtime Malware/Virus Protection
+@ul[text-08](false)
+* choco upgrade all
+* Package Downloader / Internalizer
+* Sync with Programs and Features
+* Self Service Installer
+* Central Management UI / choco deploy
+* Package Audit
+* Package Reducer
+* Install Directory Override
+* Download CDN Cache
+* Runtime Malware/Virus Protection
+@ulend
 
 ---?color=#7FDBFF
 @title[Who Am I? - Gary Ewan Park]
 
 @snap[north-west]
-Who am I?
+#### Who am I?
 @snapend
 
 @snap[west span-65]
@@ -337,7 +421,7 @@ Gary Ewan Park
 
 @snapend
 
-@snap[south-west bio-contact]
+@snap[south-west bio-contact span-100]
 @fa[twitter twitter-blue]&nbsp;&nbsp;gep13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 @fa[github text-black]&nbsp;&nbsp;github.com/gep13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 @fa[home text-blue]&nbsp;&nbsp;gep13.co.uk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -360,10 +444,12 @@ Web: https://www.gep13.co.uk
 
 ---
 
-@title[Resources]
+@title[Learn More]
 
-## Resources
+## Learn More
 
-- Chocolatey Documentation - [https://chocolatey.org/docs](https://chocolatey.org/docs)
-- Source Code - [https://github.com/chocolatey/choco](https://github.com/chocolatey/choco)
-- Learning Resources - [https://chocolatey.org/docs/resources](https://chocolatey.org/docs/resources)
+@ul[text-08](false)
+* Chocolatey Documentation - [https://chocolatey.org/docs](https://chocolatey.org/docs)
+* Source Code - [https://github.com/chocolatey/choco](https://github.com/chocolatey/choco)
+* Learning Resources - [https://chocolatey.org/docs/resources](https://chocolatey.org/docs/resources)
+@ulend
